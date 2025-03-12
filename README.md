@@ -8,6 +8,7 @@ A simple and efficient To-Do List application to manage tasks effectively.
 ✅ Data persistence 
 
 File Structure : 
+```
 ToDoApp/
 │── app/                  # Main application source code
 │   ├── src/
@@ -19,5 +20,6 @@ ToDoApp/
 │── README.md             # Project documentation
 │── build.gradle.kts      # contains some plugins
 ignore others
+```
 
 
